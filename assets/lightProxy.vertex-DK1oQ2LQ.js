@@ -1,1 +1,0 @@
-import{s as e}from"./core-Bqp--HaV.js";export{e as lightProxyVertexShader};

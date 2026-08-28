@@ -1,0 +1,1 @@
+import{rsmGlobalIlluminationPixelShaderWGSL as e}from"./core-CXRddwwP.js";export{e as rsmGlobalIlluminationPixelShaderWGSL};

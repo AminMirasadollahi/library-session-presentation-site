@@ -1,1 +1,0 @@
-import{outlineVertexShaderWGSL as e}from"./core-Bqp--HaV.js";export{e as outlineVertexShaderWGSL};

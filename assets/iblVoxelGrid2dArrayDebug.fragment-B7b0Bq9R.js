@@ -1,1 +1,0 @@
-import{iblVoxelGrid2dArrayDebugPixelShaderWGSL as e}from"./core-Bqp--HaV.js";export{e as iblVoxelGrid2dArrayDebugPixelShaderWGSL};

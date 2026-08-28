@@ -1,0 +1,1 @@
+import{spritesPixelShader as e}from"./core-CXRddwwP.js";export{e as spritesPixelShader};

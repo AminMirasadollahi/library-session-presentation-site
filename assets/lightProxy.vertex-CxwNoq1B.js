@@ -1,0 +1,1 @@
+import{s as e}from"./core-CXRddwwP.js";export{e as lightProxyVertexShader};

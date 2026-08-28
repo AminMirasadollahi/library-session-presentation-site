@@ -1,0 +1,1 @@
+import{blackAndWhitePixelShaderWGSL as e}from"./core-CXRddwwP.js";export{e as blackAndWhitePixelShaderWGSL};

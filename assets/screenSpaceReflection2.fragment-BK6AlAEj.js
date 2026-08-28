@@ -1,0 +1,1 @@
+import{screenSpaceReflection2PixelShaderWGSL as e}from"./core-CXRddwwP.js";export{e as screenSpaceReflection2PixelShaderWGSL};
