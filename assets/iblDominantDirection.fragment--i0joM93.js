@@ -1,0 +1,1 @@
+import{iblDominantDirectionPixelShaderWGSL as e}from"./core-Bqp--HaV.js";export{e as iblDominantDirectionPixelShaderWGSL};

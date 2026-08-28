@@ -1,0 +1,1 @@
+import{meshUVSpaceRendererPixelShaderWGSL as e}from"./core-Bqp--HaV.js";export{e as meshUVSpaceRendererPixelShaderWGSL};

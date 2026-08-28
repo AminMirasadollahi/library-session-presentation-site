@@ -1,0 +1,1 @@
+import{r as e}from"./core-Bqp--HaV.js";export{e as lightProxyPixelShaderWGSL};
