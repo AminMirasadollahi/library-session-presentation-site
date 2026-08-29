@@ -1,1 +1,0 @@
-import{meshUVSpaceRendererMaskerPixelShaderWGSL as e}from"./core-ByYWIXKX.js";export{e as meshUVSpaceRendererMaskerPixelShaderWGSL};

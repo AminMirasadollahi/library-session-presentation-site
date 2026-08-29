@@ -1,1 +1,0 @@
-import{colorVertexShader as e}from"./core-ByYWIXKX.js";export{e as colorVertexShader};

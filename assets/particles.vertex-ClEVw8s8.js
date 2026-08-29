@@ -1,0 +1,1 @@
+import{particlesVertexShaderWGSL as e}from"./core-BPkCZ5NA.js";export{e as particlesVertexShaderWGSL};
