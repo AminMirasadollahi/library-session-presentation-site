@@ -1,1 +1,0 @@
-import{proceduralVertexShaderWGSL as e}from"./core-CXRddwwP.js";export{e as proceduralVertexShaderWGSL};

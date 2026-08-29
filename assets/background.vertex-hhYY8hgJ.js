@@ -1,1 +1,0 @@
-import{backgroundVertexShaderWGSL as e}from"./core-CXRddwwP.js";export{e as backgroundVertexShaderWGSL};

@@ -1,0 +1,1 @@
+import{backgroundVertexShader as e}from"./core-ByYWIXKX.js";export{e as backgroundVertexShader};

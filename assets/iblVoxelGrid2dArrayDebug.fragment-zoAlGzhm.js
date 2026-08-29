@@ -1,0 +1,1 @@
+import{iblVoxelGrid2dArrayDebugPixelShaderWGSL as e}from"./core-ByYWIXKX.js";export{e as iblVoxelGrid2dArrayDebugPixelShaderWGSL};

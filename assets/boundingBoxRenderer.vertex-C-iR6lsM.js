@@ -1,1 +1,0 @@
-import{boundingBoxRendererVertexShaderWGSL as e}from"./core-CXRddwwP.js";export{e as boundingBoxRendererVertexShaderWGSL};
