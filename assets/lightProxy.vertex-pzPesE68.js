@@ -1,1 +1,0 @@
-import{s as e}from"./core-ByYWIXKX.js";export{e as lightProxyVertexShader};

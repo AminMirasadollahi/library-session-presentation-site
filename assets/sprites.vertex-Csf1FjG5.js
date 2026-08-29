@@ -1,1 +1,0 @@
-import{spritesVertexShaderWGSL as e}from"./core-ByYWIXKX.js";export{e as spritesVertexShaderWGSL};

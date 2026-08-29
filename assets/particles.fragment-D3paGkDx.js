@@ -1,1 +1,0 @@
-import{particlesPixelShaderWGSL as e}from"./core-ByYWIXKX.js";export{e as particlesPixelShaderWGSL};

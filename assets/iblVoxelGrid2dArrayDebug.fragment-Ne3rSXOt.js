@@ -1,0 +1,1 @@
+import{iblVoxelGrid2dArrayDebugPixelShaderWGSL as e}from"./core-BPkCZ5NA.js";export{e as iblVoxelGrid2dArrayDebugPixelShaderWGSL};
