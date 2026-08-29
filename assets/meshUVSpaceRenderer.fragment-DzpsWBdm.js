@@ -1,0 +1,1 @@
+import{meshUVSpaceRendererPixelShaderWGSL as e}from"./core-B0qjZUKp.js";export{e as meshUVSpaceRendererPixelShaderWGSL};
