@@ -1,1 +1,0 @@
-import{colorPixelShaderWGSL as e}from"./core-B0qjZUKp.js";export{e as colorPixelShaderWGSL};
