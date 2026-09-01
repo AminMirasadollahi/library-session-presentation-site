@@ -1,0 +1,1 @@
+import{rsmGlobalIlluminationPixelShader as e}from"./core-BUyb2yMR.js";export{e as rsmGlobalIlluminationPixelShader};

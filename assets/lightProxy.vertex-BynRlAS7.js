@@ -1,0 +1,1 @@
+import{s as e}from"./core-BUyb2yMR.js";export{e as lightProxyVertexShader};

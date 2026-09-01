@@ -1,0 +1,1 @@
+import{n as e}from"./core-BUyb2yMR.js";export{e as lightProxyVertexShaderWGSL};

@@ -1,0 +1,1 @@
+import{particlesPixelShaderWGSL as e}from"./core-BUyb2yMR.js";export{e as particlesPixelShaderWGSL};
